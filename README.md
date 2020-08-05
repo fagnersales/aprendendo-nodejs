@@ -5,8 +5,16 @@
 
 
 ## Conteúdos
-- ### [O que é uma Função?](https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Funções.md)
-- ### [Método Slice](https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Slice.md)
-- ### [Método Join](https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Join.md)
-- ### [Método Push](https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Push.md)
+| Conteudo | Descrição |
+|-------|-----------|
+| [O que é uma Função?][functions_url] | Como utilizar funções! |
+| [Entendendo Require][require_url] | Entendendo Require |
+| [Método Slice][slice_url] | Como utilizar o método **`slice`** |
+| [Método Join][join_url] | Como utilizar o método **`join`** |
+| [Método Push][push_url] | Como utilizar o método **`push`** |
 
+[functions_url]: https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Funções.md
+[slice_url]: https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Slice.md
+[join_url]: https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Join.md
+[push_url]: https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Push.md
+[require_url]: https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Require.md

@@ -48,8 +48,14 @@ Supondo que você vai utilizar o **`require`** e você está no arquivo **`index
 ```
 
 ```js
+/* Arquivos na mesma pasta "./" */
 const carros = require('./carros.js')
+
+/* A partir daqui, a cada pasta que quiser retornar é mais um "../" */
+/* Arquivos na pasta anterior "../" */
 const pessoas = require('../pessoas.js')
+
+/* Duas pastas de distância */
 const cores = require('../../cores.js')
 ```
 

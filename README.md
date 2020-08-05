@@ -7,11 +7,11 @@
 ## Conteúdos
 | Conteudo | Descrição |
 |-------|-----------|
-| [O que é uma Função?][functions_url] | Entendendo **`Funções`** |
-| [Entendendo Require][require_url] | Entendendo **`Require`** |
-| [Método Slice][slice_url] | Entendendo o método **`slice`** |
-| [Método Join][join_url] | Entendendo o método **`join`** |
-| [Método Push][push_url] | Entendendo o método **`push`** |
+| [O que é uma Função?][functions_url] | Aprenda a lidar com códigos repetidos |
+| [Entendendo Require][require_url] | Aprenda a lidar com códigos grandes |
+| [Método Slice][slice_url] | Repartir uma `Array` em determinados pedaços |
+| [Método Join][join_url] | Transformar uma `Array` em `String` |
+| [Método Push][push_url] | Adicionar novos elementos em uma `Array` |
 
 [functions_url]: https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Funções.md
 [slice_url]: https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Slice.md

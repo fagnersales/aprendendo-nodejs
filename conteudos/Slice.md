@@ -8,7 +8,7 @@ A utilização desse método é bem simples, o primeiro parâmetro significa ond
 ### Exemplo com Array (Conjunto de Elementos):
 ```javascript
 const animais = ["Dog", "Cat", "Bird"]
-                   0      1      2
+//                 0      1      2
 const novoAnimais = animais.slice(1)
 
 console.log(novoAnimais)
@@ -18,7 +18,7 @@ console.log(novoAnimais)
 ### Exemplo com String (Texto): 
 ```javascript
 const frase = "Olá mundo!"
-               0123456789
+//             0123456789
 
 const novaFrase = frase.slice(3)
 

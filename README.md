@@ -2,6 +2,8 @@
 
 # Entendendo NodeJS
 
+### Venha contribuir!
+
 > Todo o conteúdo foi e é feito de forma independente por mim! Espero que eu possa te ajudar e qualquer dúvida você pode entrar em contato comigo!
 > Discord: (Fagner.#8917)
 

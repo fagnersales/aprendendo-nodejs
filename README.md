@@ -20,9 +20,10 @@
 | [Método Slice][slice_url] | Repartir uma `Array` em determinados pedaços |
 | [Método Join][join_url] | Transformar uma `Array` em `String` |
 | [Método Push][push_url] | Adicionar novos elementos em uma `Array` |
-</div>
+
 [functions_url]: https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Funções.md
 [slice_url]: https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Slice.md
 [join_url]: https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Join.md
 [push_url]: https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Push.md
 [require_url]: https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Require.md
+</div>

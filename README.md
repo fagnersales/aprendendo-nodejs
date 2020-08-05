@@ -1,6 +1,8 @@
-<img width="100" height="100" align="left" style="float: left; margin: 0 10px 0 0;" alt="Fagner" src="https://i.imgur.com/ByPns1I.png">
+<div align="center">
+  <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Fagner" src="https://i.imgur.com/ByPns1I.png">
 
-# Entendendo NodeJS
+<h1>Entendendo NodeJS</h1>
+</div>
 
 ### Venha contribuir!
 

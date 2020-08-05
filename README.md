@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Fagner" src="https://i.imgur.com/ByPns1I.png">
+  <img width="150" height="150" src="https://i.imgur.com/ByPns1I.png">
 
 <h1>Entendendo NodeJS</h1>
 </div>

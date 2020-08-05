@@ -2,9 +2,10 @@
   <img width="150" height="150" src="https://i.imgur.com/ByPns1I.png">
 
 <h1>Entendendo NodeJS</h1>
+
+<h3>Venha contribuir!</h3>
 </div>
 
-### Venha contribuir!
 
 > Todo o conteúdo foi e é feito de forma independente por mim! Espero que eu possa te ajudar e qualquer dúvida você pode entrar em contato comigo!
 > Discord: (Fagner.#8917)

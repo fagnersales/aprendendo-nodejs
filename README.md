@@ -1,6 +1,9 @@
-![Fagner](https://i.imgur.com/ByPns1I.png)
-#### Todo o conteúdo foi e é feito de forma independente por mim! Espero que eu possa te ajudar e qualquer dúvida você pode entrar em contato comigo!
-#### Discord: (Fagner.#8917)
+<img width="100" height="100" align="left" style="float: left; margin: 0 10px 0 0;" alt="Fagner" src="https://i.imgur.com/ByPns1I.png">
+
+# Entendendo NodeJS
+
+> Todo o conteúdo foi e é feito de forma independente por mim! Espero que eu possa te ajudar e qualquer dúvida você pode entrar em contato comigo!
+> Discord: (Fagner.#8917)
 
 
 

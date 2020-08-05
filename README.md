@@ -7,7 +7,7 @@
 ## Conteúdos
 | Conteudo | Descrição |
 |-------|-----------|
-| [O que é uma Função?][functions_url] | Entendendo ***`Funções`**! |
+| [O que é uma Função?][functions_url] | Entendendo **`Funções`** |
 | [Entendendo Require][require_url] | Entendendo **`Require`** |
 | [Método Slice][slice_url] | Entendendo o método **`slice`** |
 | [Método Join][join_url] | Entendendo o método **`join`** |

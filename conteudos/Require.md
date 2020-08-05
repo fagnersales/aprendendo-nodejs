@@ -6,7 +6,7 @@ Vamos fazer isso na prática, dentro do seu projeto crie um arquivo chamado **`a
 
 Primeiro vamos começar pelo **`conteudo_externo.js`**
 
-Inicialmente criamos um objeto, mas e se quisessemos deixar ele acessível para outros arquivos?
+Imagine que temos um objeto chamado **`person`** e queremos deixar ele público para outros arquivos.
 ```js
 const person = {
   name: 'Fagner',
@@ -24,8 +24,10 @@ Agora que já estamos exportando nosso objeto, vamos agora acessar ele pelo arqu
 ```js
 const conteudo_externo = require('./conteudo_externo.js')
 
+console.log(`Olá, me chamo ${conteudo_externo.name}!`)
 console.log(conteudo_externo)
 
+// => Olá, me chamo Fagner!
 // => {
 // =>   name: 'Fagner',
 // =>   age: 19,

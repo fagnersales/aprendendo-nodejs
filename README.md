@@ -22,10 +22,10 @@
 | [Método Push][push_url] | Adicionar novos elementos em uma `Array` |
 | [if/else/else if][if_url] | Aprenda a utilizar `condições` |
 
-[functions_url]: https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Funções.md
-[slice_url]: https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Slice.md
-[join_url]: https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Join.md
-[push_url]: https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Push.md
-[require_url]: https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Require.md
-[if_url]: https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/If.md
+[functions_url]: https://github.com/fagnersales/aprendendo-nodejs/blob/master/conteudos/Funções.md
+[slice_url]: https://github.com/fagnersales/aprendendo-nodejs/blob/master/conteudos/Slice.md
+[join_url]: https://github.com/fagnersales/aprendendo-nodejs/blob/master/conteudos/Join.md
+[push_url]: https://github.com/fagnersales/aprendendo-nodejs/blob/master/conteudos/Push.md
+[require_url]: https://github.com/fagnersales/aprendendo-nodejs/blob/master/conteudos/Require.md
+[if_url]: https://github.com/fagnersales/aprendendo-nodejs/blob/master/conteudos/if.md
 </div>

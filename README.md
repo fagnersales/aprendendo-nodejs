@@ -20,7 +20,8 @@
 | [Método Slice][slice_url] | Repartir uma `Array` em determinados pedaços |
 | [Método Join][join_url] | Transformar uma `Array` em `String` |
 | [Método Push][push_url] | Adicionar novos elementos em uma `Array` |
-| [Teste][conteudos/if.md] | Aprenda a utilizar `condições` |
+| [Teste][if.md] | Aprenda a utilizar `condições` |
+
 [functions_url]: https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Funções.md
 [slice_url]: https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Slice.md
 [join_url]: https://github.com/fagnersales/aprendendo-javascript/blob/master/conteudos/Join.md
